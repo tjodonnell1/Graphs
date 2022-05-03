@@ -10,3 +10,8 @@ Description of Contents
     Plots the graph, and provides a list containing the number of vertices, edges and weights.
     
     Note: Edge labels may overlap, suggest creating new graphs until a plot without overlapping labels is produced.
+    
+    
+* go.bat -- A simple batch file for rapid testing of Project 4
+    
+    Needs to be in the same directory as Project 4's .java files.
